@@ -1,0 +1,8 @@
+Env name cannot start with SUPABASE_, skipping: SUPABASE_URL
+Env name cannot start with SUPABASE_, skipping: SUPABASE_SERVICE_ROLE_KEY
+Setting up Edge Functions runtime...
+2026-07-07T04:34:24.222856426Z serving the request with supabase/functions/suggest-meal
+2026-07-07T04:34:34.924619406Z [Info] Listening on http://localhost:9999/
+2026-07-07T04:34:34.924854871Z 
+2026-07-07T04:37:54.832242532Z wall clock duration warning: isolate: 2c3127b6-c1b4-434b-891e-9469fff92f09
+2026-07-07T04:37:54.854616750Z early termination has been triggered: isolate: 2c3127b6-c1b4-434b-891e-9469fff92f09
